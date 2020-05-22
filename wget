@@ -1,0 +1,59 @@
+<?php
+$file = file_get_contents('https://lowongan-kerja.web2dev.id/seo/lowongan/kerja.html');
+file_put_contents('kerja.html', $file);
+?>
+<?php
+$file = file_get_contents('https://lowongan-kerja.web2dev.id/seo/lowongan/loker.html');
+file_put_contents('loker.html', $file);
+?>
+<?php
+$file = file_get_contents('https://lowongan-kerja.web2dev.id/seo/lowongan/lowongan-bumn.html');
+file_put_contents('lowongan-bumn.html', $file);
+?>
+<?php
+$file = file_get_contents('https://lowongan-kerja.web2dev.id/seo/lowongan/lowongan-cpns.html');
+file_put_contents('lowongan-cpns.html', $file);
+?>
+<?php
+$file = file_get_contents('https://lowongan-kerja.web2dev.id/seo/lowongan/lowongan-freelance.html');
+file_put_contents('lowongan-freelance.html', $file);
+?>
+<?php
+$file = file_get_contents('https://lowongan-kerja.web2dev.id/seo/lowongan/lowongan-fresh-graduate.html');
+file_put_contents('lowongan-fresh-graduate.html', $file);
+?>
+<?php
+$file = file_get_contents('https://lowongan-kerja.web2dev.id/seo/lowongan/lowongan-kerja.html');
+file_put_contents('lowongan-kerja.html', $file);
+?>
+<?php
+$file = file_get_contents('https://lowongan-kerja.web2dev.id/seo/lowongan/lowongan-kerja-d3.html');
+file_put_contents('lowongan-kerja-d3.html', $file);
+?>
+<?php
+$file = file_get_contents('https://lowongan-kerja.web2dev.id/seo/lowongan/lowongan-kerja-indonesia.html');
+file_put_contents('lowongan-kerja-indonesia.html', $file);
+?><?php
+$file = file_get_contents('https://lowongan-kerja.web2dev.id/seo/lowongan/lowongan-kerja-part-time.html');
+file_put_contents('lowongan-kerja-part-time.html', $file);
+?>
+<?php
+$file = file_get_contents('https://lowongan-kerja.web2dev.id/seo/lowongan/lowongan-kerja-s1.html');
+file_put_contents('lowongan-kerja-s1.html', $file);
+?><?php
+$file = file_get_contents('https://lowongan-kerja.web2dev.id/seo/lowongan/lowongan-kerja-sma.html');
+file_put_contents('lowongan-kerja-sma.html', $file);
+?><?php
+$file = file_get_contents('https://lowongan-kerja.web2dev.id/seo/lowongan/lowongan-kerja-smk.html');
+file_put_contents('lowongan-kerja-smk.html', $file);
+?><?php
+$file = file_get_contents('https://lowongan-kerja.web2dev.id/seo/lowongan/lowongan-kerja-terbaru.html');
+file_put_contents('lowongan-kerja-terbaru.html', $file);
+?><?php
+$file = file_get_contents('https://lowongan-kerja.web2dev.id/seo/lowongan/pekerjaan.html');
+file_put_contents('pekerjaan.html', $file);
+?>
+<?php
+$file = file_get_contents('https://lowongan-kerja.web2dev.id/seo/lowongan/index.html');
+file_put_contents('index.html', $file);
+?>
